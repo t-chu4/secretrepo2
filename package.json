@@ -1,5 +1,5 @@
 {
-  "name": "histogramnewtest",
+  "name": "secretrepo2",
   "version": "1.0.0",
   "description": "",
   "main": "calculate.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://csil-git1.cs.surrey.sfu.ca/tchua/secretrepo2"
+    "url": "https://github.com/t-chu4/secretrepo2"
   },
   "author": "Timothy Chua",
   "license": "ISC"
