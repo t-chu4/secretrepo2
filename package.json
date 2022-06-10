@@ -1,0 +1,16 @@
+{
+  "name": "histogramnewtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://csil-git1.cs.surrey.sfu.ca/tchua/secretrepo2"
+  },
+  "author": "Timothy Chua",
+  "license": "ISC"
+}
+
